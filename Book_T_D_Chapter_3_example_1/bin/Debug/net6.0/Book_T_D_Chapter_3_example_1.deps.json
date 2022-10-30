@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Book_T_D_Chapter_3_example_1/1.0.0": {
+        "dependencies": {
+          "Book_T_D_Chapter_3_example": "1.0.0"
+        },
+        "runtime": {
+          "Book_T_D_Chapter_3_example_1.dll": {}
+        }
+      },
+      "Book_T_D_Chapter_3_example/1.0.0": {
+        "runtime": {
+          "Book_T_D_Chapter_3_example.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Book_T_D_Chapter_3_example_1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Book_T_D_Chapter_3_example/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
