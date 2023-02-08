@@ -1,0 +1,9 @@
+E:\Размещение проектов С#\Project.DLL\bin\Debug\Project.DLL.dll
+E:\Размещение проектов С#\Project.DLL\bin\Debug\Project.DLL.pdb
+E:\Размещение проектов С#\Project.DLL\bin\Debug\Project.DAL.dll
+E:\Размещение проектов С#\Project.DLL\bin\Debug\Project.DAL.pdb
+E:\Размещение проектов С#\Project.DLL\obj\Debug\Project.BLL.csprojAssemblyReference.cache
+E:\Размещение проектов С#\Project.DLL\obj\Debug\Project.BLL.csproj.CoreCompileInputs.cache
+E:\Размещение проектов С#\Project.DLL\obj\Debug\Project.BLL.csproj.CopyComplete
+E:\Размещение проектов С#\Project.DLL\obj\Debug\Project.DLL.dll
+E:\Размещение проектов С#\Project.DLL\obj\Debug\Project.DLL.pdb

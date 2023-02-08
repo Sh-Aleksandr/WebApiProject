@@ -1,0 +1,6 @@
+E:\Размещение проектов С#\Project.DAL\bin\Debug\Project.DAL.dll
+E:\Размещение проектов С#\Project.DAL\bin\Debug\Project.DAL.pdb
+E:\Размещение проектов С#\Project.DAL\obj\Debug\Project.DAL.csprojAssemblyReference.cache
+E:\Размещение проектов С#\Project.DAL\obj\Debug\Project.DAL.csproj.CoreCompileInputs.cache
+E:\Размещение проектов С#\Project.DAL\obj\Debug\Project.DAL.dll
+E:\Размещение проектов С#\Project.DAL\obj\Debug\Project.DAL.pdb
